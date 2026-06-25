@@ -305,7 +305,7 @@ Desarrolla una aplicación Java que gestione el registro de productos mediante u
 
 | Criterio | Puntos |
 |----------|--------|
-| Clase `Estudiante` con atributos y constructor correctos | 10 pts |
+| Clase `Producto` con atributos y constructor correctos | 10 pts |
 | Guardar lista en JSON correctamente con Gson | 20 pts |
 | Cargar lista desde JSON correctamente (TypeToken) | 20 pts |
 | Menú funcional con todas las opciones | 25 pts |
